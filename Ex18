@@ -1,4 +1,4 @@
-exercicio 19:
+exercicio 18:
 
 print("telefonou para a vítima?")
 fone = input("sim ou não?")
